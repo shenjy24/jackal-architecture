@@ -1,0 +1,1 @@
+[Map+函数式接口方法解决if-else](https://mp.weixin.qq.com/s/79go9AFZgcnNM7uk_5Yaew)
