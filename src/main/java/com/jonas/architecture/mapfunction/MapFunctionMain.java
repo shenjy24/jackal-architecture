@@ -1,4 +1,4 @@
-package com.jonas.mapfunction;
+package com.jonas.architecture.mapfunction;
 
 public class MapFunctionMain {
 

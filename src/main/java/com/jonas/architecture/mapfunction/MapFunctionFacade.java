@@ -1,4 +1,4 @@
-package com.jonas.mapfunction;
+package com.jonas.architecture.mapfunction;
 
 import java.util.HashMap;
 import java.util.Map;
